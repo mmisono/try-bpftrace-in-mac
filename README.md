@@ -8,6 +8,9 @@ Try bpftrace in macOS
 3. ./run.sh
 4. Enjoy!
 
+![demo](https://user-images.githubusercontent.com/186170/99377060-1b09be80-2909-11eb-8c73-e9064dfc7f15.gif)
+
+
 ## FAQ
 
 ### Why does it run on macOS?
